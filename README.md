@@ -2,7 +2,7 @@
 
 AI engineer in **Miami** who likes building things that leave the laptop — production web apps, LLM/agent tooling, and hardware that talks to the real world.
 
-I'm bilingual (**English / Spanish**) and also speak **Portuguese**. I came up through Miami Dade College (A.S. Computer Science, **GPA 4.00**, Jan–Dec 2024), then transferred to **Florida International University** for a B.S. in CS (**GPA 3.76**, expected Apr 2028). Clubs: INIT, Google Developer Group, AAVE, CASHI.
+I'm bilingual (**English / Spanish**) and also understand **Portuguese**. I came up through Miami Dade College (A.S. Computer Science, **GPA 4.00**, Jan–Dec 2024), then transferred to **Florida International University** for a B.S. in CS (**GPA 3.76**, expected Apr 2028). Clubs: INIT, Google Developer Group, AAVE, CASHI.
 
 I'm looking for **Software Engineering**, **AI / ML**, and **Forward Deployed Engineer** internships — roles where I can ship with users, not just demos.
 
